@@ -1,6 +1,10 @@
 {
+<<<<<<< HEAD
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
         "stdio.h": "c"
     }
+=======
+    "C_Cpp.errorSquiggles": "disabled"
+>>>>>>> master
 }
