@@ -1,0 +1,23 @@
+[33mcommit e0083f0a2d71337f236238069f0a2831a6687a7f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: klklko9 <My@qq.com>
+Date:   Sun Dec 22 19:20:58 2024 +0800
+
+    在 hal_uart_printf.c 中添加空行以改善代码可读性
+
+[33mcommit e7fae0ebcb74b9eab8d2ec044cd9db1cbc941dda[m
+Author: Your Name <your.email@example.com>
+Date:   Sun Dec 22 19:09:41 2024 +0800
+
+    添加 VSCode 设置以禁用 C/C++ 错误波浪线
+
+[33mcommit f9c1465ca7237935756032c6af4b0bca9c34dfbb[m
+Author: Your Name <your.email@example.com>
+Date:   Sun Dec 22 19:09:05 2024 +0800
+
+    添加 UART 打印功能，重新定义 printf 函数并实现字符串发送
+
+[33mcommit 2b34a1664e904c735e2f034b3f4afc5494a120a9[m
+Author: klklk09 <134248445+klklk09@users.noreply.github.com>
+Date:   Sun Dec 22 18:32:27 2024 +0800
+
+    Initial commit
